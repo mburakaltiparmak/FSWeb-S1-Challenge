@@ -6,7 +6,6 @@ Bugünkü çalışmada amacımız, bu hafta öğrenilen kavram ve tekniklerin so
 
 Bu çalışma kendiniz için bireysel bir değerlendirme olacaktır. Başkalarından yardım alabilirsiniz ama en sonunda gerekli olan isterleri kendi başınıza da yapması beklenmektedir. Sprint 1 boyunca anlatılan bilgileri kullanarak yapabilirsiniz. Önceki projelerinizde yaptıklarınızın benzerlerini yaparak challenge'ı %100 olarak tamamlayabilirsiniz.
 
-
 ## Giriş
 
 Bu challange'da, "En popüler fenomenler" web sayfası oluşturmak için sosyal medya profillerine ait bir veri seti kullanacaksınız. Bu veriler, [Kaggle](https://www.kaggle.com/datasets/medaxone/top-100-social-media-profiles) adresindeki "En iyi 100 sosyal medya profili" başlıklı Instagram, Twitter, YouTube, Twitch ve TikTok kullanıcıları listesinden gelmektedir. Çalışmayı kolaylaştırmak için, bu verilerden YouTube hariç her birinden ilk 5 profil alınacak şekilde, toplam 20 fenemen profili kullanılacaktır.
@@ -31,7 +30,7 @@ VSCode ve Komut Satırını Kullanma:
 
 ### Görev 2: Yapılması gerekenler
 
-`index.js` dosyasını bulun ve verilen görevleri tamamlayın. Tüm görevleri doğru tamamlayabilirsen 10 testi de tamamladığını göreceksin. 
+`index.js` dosyasını bulun ve verilen görevleri tamamlayın. Tüm görevleri doğru tamamlayabilirsen 10 testi de tamamladığını göreceksin.
 ![alt text](assets/npm_test_skoru.png "npm test skoru örneği (10 tessten de geçilmiş(passed)")
 
 ### Test Etme & Debug Yapma
@@ -54,5 +53,6 @@ Sana verilen gün sonu projesindeki görevleri tamamladıktan sonra bonus çalı
 Verilen görevi tamamladıktan sonra [Workintech Platformu](https://app.workintech.com.tr)'nda (app.workintech.com.tr) `Sprint 1>Gün 4`'ün sonuna eklenmiş olan "`Görev: Sprint 1 Challenge Projesini Buraya Yükle`" içeriğini açıp. GitHub hesabınızda oluşturduğunuz repo'nun adresini buraya ekleyiniz. Eğitmenlerimiz, gün projenizi kontrol edecek ve ertesi gün size slack üzerinden geribildirimde bulunacaklar.
 
 ## Kaynaklar
+
 [W3 Schools - JavaScript Arrays](https://www.w3schools.com/js/js_arrays.asp)
 [W3 Schools - JavaScript Objects](https://www.w3schools.com/js/js_objects.asp)
